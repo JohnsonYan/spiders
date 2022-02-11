@@ -40,7 +40,7 @@ service-identity==16.0.0
 setupfiles==0.0.0
 six==1.10.0
 splinter==0.7.5
-Twisted==16.4.1
+Twisted==22.1.0
 uritemplate==3.0.0
 uritemplate.py==3.0.2
 virtualenv==15.0.3
